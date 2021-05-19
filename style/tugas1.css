@@ -1,0 +1,13 @@
+.image-logo {
+
+  width: 25px;
+  height: 25px;
+  float: left;
+}
+h1{
+  color: green;
+}
+p{
+  color: blue;
+  font: 18px;
+}
